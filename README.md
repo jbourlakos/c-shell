@@ -1,0 +1,1 @@
+A very simplistic shell interface implementation for C terminal applications.
